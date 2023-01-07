@@ -6,17 +6,14 @@
   
   "overrides": [
 
-    {"predicate": {"custom_model_data":1}, "model": "item/bobo/jackfruit_jumper"},
+    {"predicate": {"custom_model_data":1}, "model": "item/bobo/honeydew_hopper/regular"},
     {"predicate": {"custom_model_data":2}, "model": "item/bobo/blinding_blueberry"},
     {"predicate": {"custom_model_data":3}, "model": "item/bobo/durian_decoy"},
     {"predicate": {"custom_model_data":4}, "model": "item/bobo/guava_grenade"},
     {"predicate": {"custom_model_data":5}, "model": "item/bobo/hot_potato_planter"},
     {"predicate": {"custom_model_data":6}, "model": "item/bobo/starfruit_swapper"},
     {"predicate": {"custom_model_data":7}, "model": "item/bobo/tangerine_teleporter"},
-
-    {"predicate": {"custom_model_data":8}, "model": "item/teemo/move_quick"},
-    {"predicate": {"custom_model_data":9}, "model": "item/teemo/noxious_trap"},
-    {"predicate": {"custom_model_data":10}, "model": "item/teemo/recall"},
+    {"predicate": {"custom_model_data":11}, "model": "item/bobo/honeydew_hopper/squish"}
 
     {"predicate": {"custom_model_data":100}, "model": "item/impostor/kill"},
     {"predicate": {"custom_model_data":101}, "model": "item/impostor/report_body"},
@@ -33,6 +30,10 @@
     {"predicate": {"custom_model_data":111}, "model": "item/impostor/entity/blue_vent"},
     {"predicate": {"custom_model_data":112}, "model": "item/impostor/entity/yellow_vent"},
     {"predicate": {"custom_model_data":113}, "model": "item/impostor/entity/green_vent"},
+
+    {"predicate": {"custom_model_data":200}, "model": "item/teemo/move_quick"},
+    {"predicate": {"custom_model_data":201}, "model": "item/teemo/noxious_trap"},
+    {"predicate": {"custom_model_data":202}, "model": "item/teemo/recall"},
 
     {"predicate": {"custom_model_data":1001}, "model": "item/jotaro/star_platinum_punch"},
     {"predicate": {"custom_model_data":1002}, "model": "item/jotaro/star_platinum_uppercut"},
@@ -51,5 +52,9 @@
     {"predicate": {"custom_model_data":1207}, "model": "item/jett/updraft"},
 
     {"predicate": {"custom_model_data":100000}, "model": "item/extra/banana"}
+
+
+
+    
   ]
 }
