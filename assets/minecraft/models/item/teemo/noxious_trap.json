@@ -1,0 +1,23 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/teemo/noxious_trap"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [90, 180, 0],
+      "translation": [0, 2, 0],
+      "scale": [0.8, 0.8, 1.25]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -10, 2],
+      "translation": [0, 3.5, 0],
+      "scale": [0.4, 0.4, 0.4]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, -10, 2],
+      "translation": [0, 3.5, 0],
+      "scale": [0.4, 0.4, 0.4]
+    }
+  }
+}

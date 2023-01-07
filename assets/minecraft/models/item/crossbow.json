@@ -1,0 +1,223 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/crossbow_standby"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, 0, -60 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 0, 30 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -90, 0, -55 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -90, 0, 35 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "item/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "item/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1
+            },
+            "model": "item/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "item/teemo/toxic_shot"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 100
+            },
+            "model": "item/teemo/toxic_shot"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 100
+            },
+            "model": "item/teemo/toxic_shot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "item/teemo/blinding_dart"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 101
+            },
+            "model": "item/teemo/blinding_dart"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 101
+            },
+            "model": "item/teemo/blinding_dart"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1100
+            },
+            "model": "item/guts/repeater_crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 1100
+            },
+            "model": "item/guts/repeater_crossbow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 1100
+            },
+            "model": "item/guts/repeater_crossbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1101
+            },
+            "model": "item/guts/repeater_crossbow1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 1101
+            },
+            "model": "item/guts/repeater_crossbow1"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 1101
+            },
+            "model": "item/guts/repeater_crossbow1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1102
+            },
+            "model": "item/guts/repeater_crossbow2"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 1102
+            },
+            "model": "item/guts/repeater_crossbow2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 1102
+            },
+            "model": "item/guts/repeater_crossbow2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1103
+            },
+            "model": "item/guts/repeater_crossbow3"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 1103
+            },
+            "model": "item/guts/repeater_crossbow3"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 1103
+            },
+            "model": "item/guts/repeater_crossbow3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1104
+            },
+            "model": "item/guts/repeater_crossbow4"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 1104
+            },
+            "model": "item/guts/repeater_crossbow4"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 1104
+            },
+            "model": "item/guts/repeater_crossbow4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1110
+            },
+            "model": "item/guts/cannon_arm"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 1110
+            },
+            "model": "item/guts/cannon_arm"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 1110
+            },
+            "model": "item/guts/cannon_arm"
+        }
+    ]
+}
