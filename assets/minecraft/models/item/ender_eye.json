@@ -13,7 +13,7 @@
     {"predicate": {"custom_model_data":5}, "model": "item/bobo/hot_potato_planter"},
     {"predicate": {"custom_model_data":6}, "model": "item/bobo/starfruit_swapper"},
     {"predicate": {"custom_model_data":7}, "model": "item/bobo/tangerine_teleporter"},
-    {"predicate": {"custom_model_data":11}, "model": "item/bobo/honeydew_hopper/squish"}
+    {"predicate": {"custom_model_data":11}, "model": "item/bobo/honeydew_hopper/squish"},
 
     {"predicate": {"custom_model_data":100}, "model": "item/impostor/kill"},
     {"predicate": {"custom_model_data":101}, "model": "item/impostor/report_body"},
@@ -50,6 +50,8 @@
 
     {"predicate": {"custom_model_data":1206}, "model": "item/jett/tailwind"},
     {"predicate": {"custom_model_data":1207}, "model": "item/jett/updraft"},
+
+    {"predicate": {"custom_model_data":1300}, "model": "item/officer/swapstick"},
 
     {"predicate": {"custom_model_data":100000}, "model": "item/extra/banana"}
 
