@@ -101,6 +101,26 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1000101
+            },
+            "model": "item/teemo/inactive/blinding_dart"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 1000101
+            },
+            "model": "item/teemo/inactive/blinding_dart"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 1000101
+            },
+            "model": "item/teemo/inactive/blinding_dart"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1100
             },
             "model": "item/guts/repeater_crossbow"

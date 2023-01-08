@@ -53,7 +53,52 @@
 
     {"predicate": {"custom_model_data":1300}, "model": "item/officer/swapstick"},
 
-    {"predicate": {"custom_model_data":100000}, "model": "item/extra/banana"}
+    {"predicate": {"custom_model_data":100000}, "model": "item/extra/banana"},
+
+
+
+
+
+  {"predicate": {"custom_model_data":1000001}, "model": "item/bobo/inactive/honeydew_hopper/regular"},
+    {"predicate": {"custom_model_data":1000002}, "model": "item/bobo/inactive/blinding_blueberry"},
+    {"predicate": {"custom_model_data":1000003}, "model": "item/bobo/inactive/durian_decoy"},
+    {"predicate": {"custom_model_data":1000004}, "model": "item/bobo/inactive/guava_grenade"},
+    {"predicate": {"custom_model_data":1000005}, "model": "item/bobo/inactive/hot_potato_planter"},
+    {"predicate": {"custom_model_data":1000006}, "model": "item/bobo/inactive/starfruit_swapper"},
+    {"predicate": {"custom_model_data":1000007}, "model": "item/bobo/inactive/tangerine_teleporter"},
+    {"predicate": {"custom_model_data":1000011}, "model": "item/bobo/inactive/honeydew_hopper/squish"},
+
+    {"predicate": {"custom_model_data":1000100}, "model": "item/impostor/inactive/kill"},
+    {"predicate": {"custom_model_data":1000101}, "model": "item/impostor/inactive/report_body"},
+    {"predicate": {"custom_model_data":1000102}, "model": "item/impostor/inactive/vent"},
+    {"predicate": {"custom_model_data":1000103}, "model": "item/impostor/inactive/create_vent/red"},
+    {"predicate": {"custom_model_data":1000104}, "model": "item/impostor/inactive/create_vent/blue"},
+    {"predicate": {"custom_model_data":1000105}, "model": "item/impostor/inactive/create_vent/yellow"},
+    {"predicate": {"custom_model_data":1000106}, "model": "item/impostor/inactive/create_vent/green"},
+    {"predicate": {"custom_model_data":1000107}, "model": "item/impostor/inactive/sabotage/o2"},
+    {"predicate": {"custom_model_data":1000108}, "model": "item/impostor/inactive/sabotage/reactor"},
+    {"predicate": {"custom_model_data":1000109}, "model": "item/impostor/inactive/sabotage/lights"},
+
+    {"predicate": {"custom_model_data":1000110}, "model": "item/impostor/inactive/entity/red_vent"},
+    {"predicate": {"custom_model_data":1000111}, "model": "item/impostor/inactive/entity/blue_vent"},
+    {"predicate": {"custom_model_data":1000112}, "model": "item/impostor/inactive/entity/yellow_vent"},
+    {"predicate": {"custom_model_data":1000113}, "model": "item/impostor/inactive/entity/green_vent"},
+
+    {"predicate": {"custom_model_data":1000200}, "model": "item/teemo/inactive/move_quick"},
+    {"predicate": {"custom_model_data":1000201}, "model": "item/teemo/inactive/noxious_trap"},
+    {"predicate": {"custom_model_data":1000202}, "model": "item/teemo/inactive/recall"},
+
+    {"predicate": {"custom_model_data":1001003}, "model": "item/jotaro/inactive/star_finger"},
+    {"predicate": {"custom_model_data":1001004}, "model": "item/jotaro/inactive/ora"},
+    {"predicate": {"custom_model_data":1001005}, "model": "item/jotaro/inactive/time_stop"}
+
+    {"predicate": {"custom_model_data":1001100}, "model": "item/guts/inactive/indomitable_will"},
+    {"predicate": {"custom_model_data":1001105}, "model": "item/guts/inactive/berserker_armor"},
+
+    {"predicate": {"custom_model_data":1001206}, "model": "item/jett/inactive/tailwind"},
+    {"predicate": {"custom_model_data":1001207}, "model": "item/jett/inactive/updraft"},
+
+    {"predicate": {"custom_model_data":1001300}, "model": "item/officer/inactive/swapstick"}
 
 
 
