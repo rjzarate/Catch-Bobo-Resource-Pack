@@ -90,7 +90,7 @@
 
     {"predicate": {"custom_model_data":1001003}, "model": "item/jotaro/inactive/star_finger"},
     {"predicate": {"custom_model_data":1001004}, "model": "item/jotaro/inactive/ora"},
-    {"predicate": {"custom_model_data":1001005}, "model": "item/jotaro/inactive/time_stop"}
+    {"predicate": {"custom_model_data":1001005}, "model": "item/jotaro/inactive/time_stop"},
 
     {"predicate": {"custom_model_data":1001100}, "model": "item/guts/inactive/indomitable_will"},
     {"predicate": {"custom_model_data":1001105}, "model": "item/guts/inactive/berserker_armor"},
