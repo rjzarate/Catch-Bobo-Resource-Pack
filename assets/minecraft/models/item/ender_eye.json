@@ -53,6 +53,9 @@
 
     {"predicate": {"custom_model_data":1300}, "model": "item/officer/swapstick"},
     {"predicate": {"custom_model_data":1301}, "model": "item/officer/clicker"},
+    {"predicate": {"custom_model_data":1302}, "model": "item/officer/orangutan_cloth"},
+    {"predicate": {"custom_model_data":1303}, "model": "item/officer/dog_whistle"},
+    {"predicate": {"custom_model_data":1304}, "model": "item/officer/canine_embryo"},
 
     {"predicate": {"custom_model_data":100000}, "model": "item/extra/banana"},
 
@@ -100,7 +103,10 @@
     {"predicate": {"custom_model_data":1001207}, "model": "item/jett/inactive/updraft"},
 
     {"predicate": {"custom_model_data":1001300}, "model": "item/officer/inactive/swapstick"},
-    {"predicate": {"custom_model_data":1001301}, "model": "item/officer/inactive/clicker"}
+    {"predicate": {"custom_model_data":1001301}, "model": "item/officer/inactive/clicker"},
+    {"predicate": {"custom_model_data":1001302}, "model": "item/officer/inactive/orangutan_cloth"},
+    {"predicate": {"custom_model_data":1001303}, "model": "item/officer/inactive/dog_whistle"},
+    {"predicate": {"custom_model_data":1001304}, "model": "item/officer/inactive/canine_embryo"}
 
 
 
