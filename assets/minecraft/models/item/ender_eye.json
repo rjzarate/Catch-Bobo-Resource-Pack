@@ -52,6 +52,7 @@
     {"predicate": {"custom_model_data":1207}, "model": "item/jett/updraft"},
 
     {"predicate": {"custom_model_data":1300}, "model": "item/officer/swapstick"},
+    {"predicate": {"custom_model_data":1301}, "model": "item/officer/clicker"},
 
     {"predicate": {"custom_model_data":100000}, "model": "item/extra/banana"},
 
@@ -98,7 +99,8 @@
     {"predicate": {"custom_model_data":1001206}, "model": "item/jett/inactive/tailwind"},
     {"predicate": {"custom_model_data":1001207}, "model": "item/jett/inactive/updraft"},
 
-    {"predicate": {"custom_model_data":1001300}, "model": "item/officer/inactive/swapstick"}
+    {"predicate": {"custom_model_data":1001300}, "model": "item/officer/inactive/swapstick"},
+    {"predicate": {"custom_model_data":1001301}, "model": "item/officer/inactive/clicker"}
 
 
 
