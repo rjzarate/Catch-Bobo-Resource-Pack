@@ -67,57 +67,9 @@
         },
         {
             "predicate": {
-                "pulling": 1,
-                "custom_model_data": 100
-            },
-            "model": "item/teemo/toxic_shot"
-        },
-        {
-            "predicate": {
-                "charged": 1,
-                "custom_model_data": 100
-            },
-            "model": "item/teemo/toxic_shot"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 101
             },
             "model": "item/teemo/blinding_dart"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "custom_model_data": 101
-            },
-            "model": "item/teemo/blinding_dart"
-        },
-        {
-            "predicate": {
-                "charged": 1,
-                "custom_model_data": 101
-            },
-            "model": "item/teemo/blinding_dart"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1000101
-            },
-            "model": "item/teemo/inactive/blinding_dart"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "custom_model_data": 1000101
-            },
-            "model": "item/teemo/inactive/blinding_dart"
-        },
-        {
-            "predicate": {
-                "charged": 1,
-                "custom_model_data": 1000101
-            },
-            "model": "item/teemo/inactive/blinding_dart"
         },
         {
             "predicate": {
@@ -127,54 +79,6 @@
         },
         {
             "predicate": {
-                "pulling": 1,
-                "custom_model_data": 1100
-            },
-            "model": "item/guts/repeater_crossbow"
-        },
-        {
-            "predicate": {
-                "charged": 1,
-                "custom_model_data": 1100
-            },
-            "model": "item/guts/repeater_crossbow"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1101
-            },
-            "model": "item/guts/repeater_crossbow1"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "custom_model_data": 1101
-            },
-            "model": "item/guts/repeater_crossbow1"
-        },
-        {
-            "predicate": {
-                "charged": 1,
-                "custom_model_data": 1101
-            },
-            "model": "item/guts/repeater_crossbow1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1102
-            },
-            "model": "item/guts/repeater_crossbow2"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "custom_model_data": 1102
-            },
-            "model": "item/guts/repeater_crossbow2"
-        },
-        {
-            "predicate": {
-                "charged": 1,
                 "custom_model_data": 1102
             },
             "model": "item/guts/repeater_crossbow2"
@@ -187,34 +91,6 @@
         },
         {
             "predicate": {
-                "pulling": 1,
-                "custom_model_data": 1103
-            },
-            "model": "item/guts/repeater_crossbow3"
-        },
-        {
-            "predicate": {
-                "charged": 1,
-                "custom_model_data": 1103
-            },
-            "model": "item/guts/repeater_crossbow3"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1104
-            },
-            "model": "item/guts/repeater_crossbow4"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "custom_model_data": 1104
-            },
-            "model": "item/guts/repeater_crossbow4"
-        },
-        {
-            "predicate": {
-                "charged": 1,
                 "custom_model_data": 1104
             },
             "model": "item/guts/repeater_crossbow4"
@@ -227,17 +103,9 @@
         },
         {
             "predicate": {
-                "pulling": 1,
-                "custom_model_data": 1110
+                "custom_model_data": 1000101
             },
-            "model": "item/guts/cannon_arm"
-        },
-        {
-            "predicate": {
-                "charged": 1,
-                "custom_model_data": 1110
-            },
-            "model": "item/guts/cannon_arm"
+            "model": "item/teemo/inactive/blinding_dart"
         }
     ]
 }
