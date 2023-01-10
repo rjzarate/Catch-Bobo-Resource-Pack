@@ -35,6 +35,8 @@
     {"predicate": {"custom_model_data":201}, "model": "item/teemo/noxious_trap"},
     {"predicate": {"custom_model_data":202}, "model": "item/teemo/recall"},
 
+    {"predicate": {"custom_model_data":300}, "model": "item/purple_guy/phone"},
+
     {"predicate": {"custom_model_data":1001}, "model": "item/jotaro/star_platinum_punch"},
     {"predicate": {"custom_model_data":1002}, "model": "item/jotaro/star_platinum_uppercut"},
     {"predicate": {"custom_model_data":1003}, "model": "item/jotaro/star_finger"},
@@ -91,6 +93,8 @@
     {"predicate": {"custom_model_data":1000200}, "model": "item/teemo/inactive/move_quick"},
     {"predicate": {"custom_model_data":1000201}, "model": "item/teemo/inactive/noxious_trap"},
     {"predicate": {"custom_model_data":1000202}, "model": "item/teemo/inactive/recall"},
+
+    {"predicate": {"custom_model_data":1000300}, "model": "item/purple_guy/inactive/phone"},
 
     {"predicate": {"custom_model_data":1001003}, "model": "item/jotaro/inactive/star_finger"},
     {"predicate": {"custom_model_data":1001004}, "model": "item/jotaro/inactive/ora"},
