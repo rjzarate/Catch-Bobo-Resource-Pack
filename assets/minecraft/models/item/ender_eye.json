@@ -61,6 +61,8 @@
 
     {"predicate": {"custom_model_data":1400}, "model": "item/boba_fett/ee-3"},
     {"predicate": {"custom_model_data":1401}, "model": "item/boba_fett/flamethrower"},
+    {"predicate": {"custom_model_data":1402}, "model": "item/boba_fett/concussion_rocket"},
+    {"predicate": {"custom_model_data":1403}, "model": "item/boba_fett/rocket_barrage"},
 
     {"predicate": {"custom_model_data":100000}, "model": "item/extra/banana"},
 
@@ -113,8 +115,10 @@
     {"predicate": {"custom_model_data":1001301}, "model": "item/officer/inactive/clicker"},
     {"predicate": {"custom_model_data":1001302}, "model": "item/officer/inactive/orangutan_cloth"},
     {"predicate": {"custom_model_data":1001303}, "model": "item/officer/inactive/dog_whistle"},
-    {"predicate": {"custom_model_data":1001304}, "model": "item/officer/inactive/canine_embryo"}
+    {"predicate": {"custom_model_data":1001304}, "model": "item/officer/inactive/canine_embryo"},
 
+    {"predicate": {"custom_model_data":1001402}, "model": "item/boba_fett/inactive/concussion_rocket"},
+    {"predicate": {"custom_model_data":1001403}, "model": "item/boba_fett/inactive/rocket_barrage"},
 
 
     
