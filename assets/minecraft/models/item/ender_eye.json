@@ -59,6 +59,9 @@
     {"predicate": {"custom_model_data":1303}, "model": "item/officer/dog_whistle"},
     {"predicate": {"custom_model_data":1304}, "model": "item/officer/canine_embryo"},
 
+    {"predicate": {"custom_model_data":1400}, "model": "item/boba_fett/ee-3"},
+    {"predicate": {"custom_model_data":1401}, "model": "item/boba_fett/flamethrower"},
+
     {"predicate": {"custom_model_data":100000}, "model": "item/extra/banana"},
 
 
