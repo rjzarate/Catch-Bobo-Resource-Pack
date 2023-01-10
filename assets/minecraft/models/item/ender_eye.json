@@ -64,6 +64,22 @@
     {"predicate": {"custom_model_data":1402}, "model": "item/boba_fett/concussion_rocket"},
     {"predicate": {"custom_model_data":1403}, "model": "item/boba_fett/rocket_barrage"},
 
+    {"predicate": {"custom_model_data":1510}, "model": "item/vaccinator/overloaded_brewing/1"},
+    {"predicate": {"custom_model_data":1511}, "model": "item/vaccinator/overloaded_brewing/2"},
+    {"predicate": {"custom_model_data":1512}, "model": "item/vaccinator/overloaded_brewing/3"},
+    {"predicate": {"custom_model_data":1513}, "model": "item/vaccinator/overloaded_brewing/4"},
+    {"predicate": {"custom_model_data":1514}, "model": "item/vaccinator/overloaded_brewing/5"},
+    {"predicate": {"custom_model_data":1520}, "model": "item/vaccinator/self_diagnose/1"},
+    {"predicate": {"custom_model_data":1521}, "model": "item/vaccinator/self_diagnose/2"},
+    {"predicate": {"custom_model_data":1522}, "model": "item/vaccinator/self_diagnose/3"},
+    {"predicate": {"custom_model_data":1523}, "model": "item/vaccinator/self_diagnose/4"},
+    {"predicate": {"custom_model_data":1524}, "model": "item/vaccinator/self_diagnose/5"},
+    {"predicate": {"custom_model_data":1530}, "model": "item/vaccinator/unstable_concoction/1"},
+    {"predicate": {"custom_model_data":1531}, "model": "item/vaccinator/unstable_concoction/2"},
+    {"predicate": {"custom_model_data":1532}, "model": "item/vaccinator/unstable_concoction/3"},
+    {"predicate": {"custom_model_data":1533}, "model": "item/vaccinator/unstable_concoction/4"},
+    {"predicate": {"custom_model_data":1534}, "model": "item/vaccinator/unstable_concoction/5"},
+
     {"predicate": {"custom_model_data":100000}, "model": "item/extra/banana"},
 
 
@@ -118,7 +134,7 @@
     {"predicate": {"custom_model_data":1001304}, "model": "item/officer/inactive/canine_embryo"},
 
     {"predicate": {"custom_model_data":1001402}, "model": "item/boba_fett/inactive/concussion_rocket"},
-    {"predicate": {"custom_model_data":1001403}, "model": "item/boba_fett/inactive/rocket_barrage"},
+    {"predicate": {"custom_model_data":1001403}, "model": "item/boba_fett/inactive/rocket_barrage"}
 
 
     

@@ -1,0 +1,15 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/tipped_arrow_head",
+    "layer1": "item/tipped_arrow_base"
+  },
+  
+  "overrides": [
+    {"predicate": {"custom_model_data":1540}, "model": "item/vaccinator/syringe/1"},
+    {"predicate": {"custom_model_data":1541}, "model": "item/vaccinator/syringe/2"},
+    {"predicate": {"custom_model_data":1542}, "model": "item/vaccinator/syringe/3"},
+    {"predicate": {"custom_model_data":1543}, "model": "item/vaccinator/syringe/4"},
+    {"predicate": {"custom_model_data":1544}, "model": "item/vaccinator/syringe/5"}
+  ]
+}
