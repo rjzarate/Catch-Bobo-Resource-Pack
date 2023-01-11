@@ -80,6 +80,11 @@
     {"predicate": {"custom_model_data":1533}, "model": "item/vaccinator/unstable_concoction/4"},
     {"predicate": {"custom_model_data":1534}, "model": "item/vaccinator/unstable_concoction/5"},
 
+    {"predicate": {"custom_model_data":1601}, "model": "item/hacker/rootkit"},
+    {"predicate": {"custom_model_data":1602}, "model": "item/hacker/ransomware"},
+    {"predicate": {"custom_model_data":1603}, "model": "item/hacker/adware"},
+    {"predicate": {"custom_model_data":1604}, "model": "item/hacker/spyware"},
+
     {"predicate": {"custom_model_data":100000}, "model": "item/extra/banana"},
 
 
