@@ -1,0 +1,6 @@
+{
+	"parent":"item/guts/indomitable_will/1",
+	"textures": {
+		"2": "item/guts/inactive/indomitable_will/fireballyellow"
+	}
+}

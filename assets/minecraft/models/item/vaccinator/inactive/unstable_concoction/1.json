@@ -1,0 +1,6 @@
+{
+  "parent":"item/vaccinator/unstable_concoction/1",
+  "textures": {
+    "layer0": "item/vaccinator/inactive/unstable_concoction/1"
+  }
+}

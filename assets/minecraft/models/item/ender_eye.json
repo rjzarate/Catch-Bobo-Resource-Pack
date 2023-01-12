@@ -11,9 +11,10 @@
     {"predicate": {"custom_model_data":3}, "model": "item/bobo/durian_decoy"},
     {"predicate": {"custom_model_data":4}, "model": "item/bobo/guava_grenade"},
     {"predicate": {"custom_model_data":5}, "model": "item/bobo/hot_potato_planter"},
-    {"predicate": {"custom_model_data":6}, "model": "item/bobo/starfruit_swapper"},
+    {"predicate": {"custom_model_data":6}, "model": "item/bobo/starfruit_swapper/orange_to_red"},
     {"predicate": {"custom_model_data":7}, "model": "item/bobo/tangerine_teleporter"},
     {"predicate": {"custom_model_data":11}, "model": "item/bobo/honeydew_hopper/squish"},
+    {"predicate": {"custom_model_data":6}, "model": "item/bobo/starfruit_swapper/orange_to_orange"},
 
     {"predicate": {"custom_model_data":100}, "model": "item/impostor/kill"},
     {"predicate": {"custom_model_data":101}, "model": "item/impostor/report_body"},
@@ -96,9 +97,10 @@
     {"predicate": {"custom_model_data":1000003}, "model": "item/bobo/inactive/durian_decoy"},
     {"predicate": {"custom_model_data":1000004}, "model": "item/bobo/inactive/guava_grenade"},
     {"predicate": {"custom_model_data":1000005}, "model": "item/bobo/inactive/hot_potato_planter"},
-    {"predicate": {"custom_model_data":1000006}, "model": "item/bobo/inactive/starfruit_swapper"},
+    {"predicate": {"custom_model_data":1000006}, "model": "item/bobo/inactive/starfruit_swapper/orange_to_red"},
     {"predicate": {"custom_model_data":1000007}, "model": "item/bobo/inactive/tangerine_teleporter"},
     {"predicate": {"custom_model_data":1000011}, "model": "item/bobo/inactive/honeydew_hopper/squish"},
+    {"predicate": {"custom_model_data":1000006}, "model": "item/bobo/inactive/starfruit_swapper/orange_to_orange"},
 
     {"predicate": {"custom_model_data":1000100}, "model": "item/impostor/inactive/kill"},
     {"predicate": {"custom_model_data":1000101}, "model": "item/impostor/inactive/report_body"},
@@ -126,7 +128,9 @@
     {"predicate": {"custom_model_data":1001004}, "model": "item/jotaro/inactive/ora"},
     {"predicate": {"custom_model_data":1001005}, "model": "item/jotaro/inactive/time_stop"},
 
-    {"predicate": {"custom_model_data":1001100}, "model": "item/guts/inactive/indomitable_will"},
+    {"predicate": {"custom_model_data":1001100}, "model": "item/guts/inactive/indomitable_will/1"},
+    {"predicate": {"custom_model_data":1001101}, "model": "item/guts/inactive/indomitable_will/2"},
+    {"predicate": {"custom_model_data":1001102}, "model": "item/guts/inactive/indomitable_will/3"},
     {"predicate": {"custom_model_data":1001105}, "model": "item/guts/inactive/berserker_armor"},
 
     {"predicate": {"custom_model_data":1001206}, "model": "item/jett/inactive/tailwind"},

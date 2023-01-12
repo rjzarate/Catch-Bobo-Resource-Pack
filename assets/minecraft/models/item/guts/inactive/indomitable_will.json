@@ -1,9 +1,0 @@
-{
-	"parent":"item/guts/indomitable_will/1",
-	"textures": {
-		"1": "item/guts/inactive/indomitable_will/blackness",
-		"2": "item/guts/inactive/indomitable_will/fireballinactive",
-		"3": "item/guts/inactive/indomitable_will/tinysmoke",
-		"particle": "item/guts/inactive/indomitable_will/fireballinactive"
-	}
-}

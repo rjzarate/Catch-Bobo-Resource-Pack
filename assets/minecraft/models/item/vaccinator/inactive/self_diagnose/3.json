@@ -1,0 +1,6 @@
+{
+  "parent":"item/vaccinator/self_diagnose/3",
+  "textures": {
+    "layer0": "item/vaccinator/inactive/self_diagnose/3"
+  }
+}
