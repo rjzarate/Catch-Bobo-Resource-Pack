@@ -14,7 +14,7 @@
     {"predicate": {"custom_model_data":6}, "model": "item/bobo/starfruit_swapper/orange_to_red"},
     {"predicate": {"custom_model_data":7}, "model": "item/bobo/tangerine_teleporter"},
     {"predicate": {"custom_model_data":11}, "model": "item/bobo/honeydew_hopper/squish"},
-    {"predicate": {"custom_model_data":6}, "model": "item/bobo/starfruit_swapper/orange_to_orange"},
+    {"predicate": {"custom_model_data":16}, "model": "item/bobo/starfruit_swapper/orange_to_orange"},
 
     {"predicate": {"custom_model_data":100}, "model": "item/impostor/kill"},
     {"predicate": {"custom_model_data":101}, "model": "item/impostor/report_body"},
@@ -100,7 +100,7 @@
     {"predicate": {"custom_model_data":1000006}, "model": "item/bobo/inactive/starfruit_swapper/orange_to_red"},
     {"predicate": {"custom_model_data":1000007}, "model": "item/bobo/inactive/tangerine_teleporter"},
     {"predicate": {"custom_model_data":1000011}, "model": "item/bobo/inactive/honeydew_hopper/squish"},
-    {"predicate": {"custom_model_data":1000006}, "model": "item/bobo/inactive/starfruit_swapper/orange_to_orange"},
+    {"predicate": {"custom_model_data":1000016}, "model": "item/bobo/inactive/starfruit_swapper/orange_to_orange"},
 
     {"predicate": {"custom_model_data":1000100}, "model": "item/impostor/inactive/kill"},
     {"predicate": {"custom_model_data":1000101}, "model": "item/impostor/inactive/report_body"},
@@ -154,7 +154,12 @@
     {"predicate": {"custom_model_data":1001531}, "model": "item/vaccinator/inactive/unstable_concoction/2"},
     {"predicate": {"custom_model_data":1001532}, "model": "item/vaccinator/inactive/unstable_concoction/3"},
     {"predicate": {"custom_model_data":1001533}, "model": "item/vaccinator/inactive/unstable_concoction/4"},
-    {"predicate": {"custom_model_data":1001534}, "model": "item/vaccinator/inactive/unstable_concoction/5"}
+    {"predicate": {"custom_model_data":1001534}, "model": "item/vaccinator/inactive/unstable_concoction/5"},
+
+    {"predicate": {"custom_model_data":1001601}, "model": "item/hacker/inactive/rootkit"},
+    {"predicate": {"custom_model_data":1001602}, "model": "item/hacker/inactive/ransomware"},
+    {"predicate": {"custom_model_data":1001603}, "model": "item/hacker/inactive/adware"},
+    {"predicate": {"custom_model_data":1001604}, "model": "item/hacker/inactive/spyware"}
 
 
     
