@@ -1,0 +1,7 @@
+{
+  "parent":"item/vaccinator/syringe_launcher/1/pulling_1",
+  "textures": {
+    "0": "item/vaccinator/syringe_launcher/3/syringe_shooter",
+    "particle": "item/vaccinator/syringe_launcher/3/syringe_shooter"
+  }
+}

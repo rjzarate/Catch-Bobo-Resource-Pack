@@ -1,0 +1,7 @@
+{
+	"parent":"item/pepsi_man/pepsi_punch/hunter_orangutan",
+	"textures": {
+		"0": "item/pepsi_man/pepsi_punch/orangutan",
+		"particle": "item/pepsi_man/pepsi_punch/orangutan"
+	}
+}

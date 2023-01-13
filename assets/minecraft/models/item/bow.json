@@ -1,0 +1,244 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bow"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -80, 260, -40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -80, -280, 40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "pulling": 0,
+                "custom_model_data":1500
+            },
+            "model": "item/vaccinator/syringe_launcher/1/regular"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data":1500
+            },
+            "model": "item/vaccinator/syringe_launcher/1/pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65,
+                "custom_model_data":1500
+            },
+            "model": "item/vaccinator/syringe_launcher/1/pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9,
+                "custom_model_data":1500
+            },
+            "model": "item/vaccinator/syringe_launcher/1/pulling_2"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1,
+                "custom_model_data":1500
+            },
+            "model": "item/vaccinator/syringe_launcher/1/pulling_3"
+        },
+
+        {
+            "predicate": {
+                "pulling": 0,
+                "custom_model_data":1501
+            },
+            "model": "item/vaccinator/syringe_launcher/2/regular"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data":1501
+            },
+            "model": "item/vaccinator/syringe_launcher/2/pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65,
+                "custom_model_data":1501
+            },
+            "model": "item/vaccinator/syringe_launcher/2/pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9,
+                "custom_model_data":1501
+            },
+            "model": "item/vaccinator/syringe_launcher/2/pulling_2"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1,
+                "custom_model_data":1501
+            },
+            "model": "item/vaccinator/syringe_launcher/2/pulling_3"
+        },
+
+        {
+            "predicate": {
+                "pulling": 0,
+                "custom_model_data":1502
+            },
+            "model": "item/vaccinator/syringe_launcher/3/regular"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data":1502
+            },
+            "model": "item/vaccinator/syringe_launcher/3/pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65,
+                "custom_model_data":1502
+            },
+            "model": "item/vaccinator/syringe_launcher/3/pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9,
+                "custom_model_data":1502
+            },
+            "model": "item/vaccinator/syringe_launcher/3/pulling_2"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1,
+                "custom_model_data":1502
+            },
+            "model": "item/vaccinator/syringe_launcher/3/pulling_3"
+        },
+
+        {
+            "predicate": {
+                "pulling": 0,
+                "custom_model_data":1503
+            },
+            "model": "item/vaccinator/syringe_launcher/4/regular"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data":1503
+            },
+            "model": "item/vaccinator/syringe_launcher/4/pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65,
+                "custom_model_data":1503
+            },
+            "model": "item/vaccinator/syringe_launcher/4/pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9,
+                "custom_model_data":1503
+            },
+            "model": "item/vaccinator/syringe_launcher/4/pulling_2"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1,
+                "custom_model_data":1503
+            },
+            "model": "item/vaccinator/syringe_launcher/4/pulling_3"
+        },
+
+        {
+            "predicate": {
+                "pulling": 0,
+                "custom_model_data":1504
+            },
+            "model": "item/vaccinator/syringe_launcher/5/regular"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data":1504
+            },
+            "model": "item/vaccinator/syringe_launcher/5/pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65,
+                "custom_model_data":1504
+            },
+            "model": "item/vaccinator/syringe_launcher/5/pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9,
+                "custom_model_data":1504
+            },
+            "model": "item/vaccinator/syringe_launcher/5/pulling_2"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1,
+                "custom_model_data":1504
+            },
+            "model": "item/vaccinator/syringe_launcher/5/pulling_3"
+        }
+    ]
+}

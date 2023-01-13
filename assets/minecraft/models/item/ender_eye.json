@@ -37,6 +37,7 @@
     {"predicate": {"custom_model_data":202}, "model": "item/teemo/recall"},
 
     {"predicate": {"custom_model_data":300}, "model": "item/purple_guy/phone"},
+    {"predicate": {"custom_model_data":310}, "model": "item/purple_guy/i_always_come_back"},
 
     {"predicate": {"custom_model_data":1001}, "model": "item/jotaro/star_platinum_punch"},
     {"predicate": {"custom_model_data":1002}, "model": "item/jotaro/star_platinum_uppercut"},
