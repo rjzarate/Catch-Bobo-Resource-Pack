@@ -1,0 +1,7 @@
+{
+	"parent":"item/hacker/trojan_horse/not_charged",
+	"textures": {
+		"0": "item/hacker/inactive/trojan_horse/not_charged",
+		"particle": "item/hacker/inactive/trojan_horse/not_charged"
+	}
+}
