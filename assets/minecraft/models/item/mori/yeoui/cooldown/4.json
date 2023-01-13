@@ -1,0 +1,15 @@
+{
+	"parent":"item/mori/yeoui/normal",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [-45.88, 80.77, 31.21],
+			"translation": [-5, -3.75, -1.25],
+			"scale": [0.5, 1, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-90, 10, 0],
+			"translation": [-1, 3.25, 0],
+			"scale": [0.5, 1, 0.5]
+		}
+	}
+}

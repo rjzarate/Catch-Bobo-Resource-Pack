@@ -1,6 +1,7 @@
 {
   "parent":"item/jotaro/star_finger",
   "textures": {
-    "layer0": "item/jotaro/inactive/star_finger"
+    "0": "item/jotaro/inactive/star_platinum",
+    "particle": "item/jotaro/inactive/star_platinum"
   }
 }

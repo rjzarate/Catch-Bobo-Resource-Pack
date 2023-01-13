@@ -103,9 +103,37 @@
         },
         {
             "predicate": {
+                "charged": 0,
+                "custom_model_data": 1600
+            },
+            "model": "item/hacker/trojan_horse/not_charged"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 1600
+            },
+            "model": "item/hacker/trojan_horse/charged"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1000101
             },
             "model": "item/teemo/inactive/blinding_dart"
+        },
+        {
+            "predicate": {
+                "charged": 0,
+                "custom_model_data": 1001600
+            },
+            "model": "item/hacker/inactive/trojan_horse/not_charged"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 1001600
+            },
+            "model": "item/hacker/inactive/trojan_horse/charged"
         }
     ]
 }
