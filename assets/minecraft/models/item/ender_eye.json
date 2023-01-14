@@ -98,6 +98,9 @@
     {"predicate": {"custom_model_data":1701}, "model": "item/pepsi_man/pepsi_punch/hunter"},
     {"predicate": {"custom_model_data":1702}, "model": "item/pepsi_man/pepsi_punch/orangutan"},
     {"predicate": {"custom_model_data":1703}, "model": "item/pepsi_man/pepsi_punch/hunter_orangutan"},
+    {"predicate": {"custom_model_data":1710}, "model": "item/pepsi_man/pepsi_splash"},
+    {"predicate": {"custom_model_data":1711}, "model": "item/pepsi_man/pepsi"},
+    {"predicate": {"custom_model_data":1712}, "model": "item/pepsi_man/pepsi_creation"},
     {"predicate": {"custom_model_data":1750}, "model": "item/pepsi_man/pepsi_can"},
 
     {"predicate": {"custom_model_data":100000}, "model": "item/extra/banana"},
