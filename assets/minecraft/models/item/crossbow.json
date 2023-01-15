@@ -104,6 +104,20 @@
         {
             "predicate": {
                 "charged": 0,
+                "custom_model_data": 1200
+            },
+            "model": "item/jett/blade_storm/inactive"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 1200
+            },
+            "model": "item/jett/blade_storm/regular"
+        },
+        {
+            "predicate": {
+                "charged": 0,
                 "custom_model_data": 1600
             },
             "model": "item/hacker/trojan_horse/not_charged"

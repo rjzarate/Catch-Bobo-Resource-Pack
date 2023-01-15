@@ -178,9 +178,9 @@
     {"predicate": {"custom_model_data":1001603}, "model": "item/hacker/inactive/adware"},
     {"predicate": {"custom_model_data":1001604}, "model": "item/hacker/inactive/spyware"},
 
-    {"predicate": {"custom_model_data":1001710}, "model": "item/pepsi_man/pepsi_splash"},
-    {"predicate": {"custom_model_data":1001711}, "model": "item/pepsi_man/pepsi"},
-    {"predicate": {"custom_model_data":1001712}, "model": "item/pepsi_man/pepsi_creation"}
+    {"predicate": {"custom_model_data":1001710}, "model": "item/pepsi_man/inactive/pepsi_splash"},
+    {"predicate": {"custom_model_data":1001711}, "model": "item/pepsi_man/inactive/pepsi"},
+    {"predicate": {"custom_model_data":1001712}, "model": "item/pepsi_man/inactive/pepsi_creation"}
 
 
     
