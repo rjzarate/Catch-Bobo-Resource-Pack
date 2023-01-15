@@ -87,13 +87,6 @@
     {"predicate": {"custom_model_data":1603}, "model": "item/hacker/adware"},
     {"predicate": {"custom_model_data":1604}, "model": "item/hacker/spyware"},
 
-    {"predicate": {"custom_model_data":1700}, "model": "item/mori/yeoui/normal"},
-    {"predicate": {"custom_model_data":1701}, "model": "item/mori/yeoui/cooldown/1"},
-    {"predicate": {"custom_model_data":1702}, "model": "item/mori/yeoui/cooldown/2"},
-    {"predicate": {"custom_model_data":1703}, "model": "item/mori/yeoui/cooldown/3"},
-    {"predicate": {"custom_model_data":1704}, "model": "item/mori/yeoui/cooldown/4"},
-    {"predicate": {"custom_model_data":1705}, "model": "item/mori/yeoui/cooldown/5"},
-
     {"predicate": {"custom_model_data":1700}, "model": "item/pepsi_man/pepsi_punch/regular"},
     {"predicate": {"custom_model_data":1701}, "model": "item/pepsi_man/pepsi_punch/hunter"},
     {"predicate": {"custom_model_data":1702}, "model": "item/pepsi_man/pepsi_punch/orangutan"},
@@ -102,6 +95,13 @@
     {"predicate": {"custom_model_data":1711}, "model": "item/pepsi_man/pepsi"},
     {"predicate": {"custom_model_data":1712}, "model": "item/pepsi_man/pepsi_creation"},
     {"predicate": {"custom_model_data":1750}, "model": "item/pepsi_man/pepsi_can"},
+
+    {"predicate": {"custom_model_data":1800}, "model": "item/mori/yeoui/normal"},
+    {"predicate": {"custom_model_data":1801}, "model": "item/mori/yeoui/cooldown/1"},
+    {"predicate": {"custom_model_data":1802}, "model": "item/mori/yeoui/cooldown/2"},
+    {"predicate": {"custom_model_data":1803}, "model": "item/mori/yeoui/cooldown/3"},
+    {"predicate": {"custom_model_data":1804}, "model": "item/mori/yeoui/cooldown/4"},
+    {"predicate": {"custom_model_data":1805}, "model": "item/mori/yeoui/cooldown/5"},
 
     {"predicate": {"custom_model_data":100000}, "model": "item/extra/banana"},
 
