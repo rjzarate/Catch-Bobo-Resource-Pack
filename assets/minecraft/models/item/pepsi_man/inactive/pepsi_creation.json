@@ -1,0 +1,6 @@
+{
+  "parent":"item/pepsi_man/pepsi_creation",
+  "textures": {
+    "layer0": "item/pepsi_man/inactive/pepsi_creation"
+  }
+}
