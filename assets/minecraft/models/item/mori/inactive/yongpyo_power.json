@@ -1,0 +1,6 @@
+{
+  "parent":"item/jotaro/time_stop",
+  "textures": {
+    "layer0": "item/mori/inactive/yongpyo_power"
+  }
+}

@@ -102,6 +102,11 @@
     {"predicate": {"custom_model_data":1803}, "model": "item/mori/yeoui/cooldown/3"},
     {"predicate": {"custom_model_data":1804}, "model": "item/mori/yeoui/cooldown/4"},
     {"predicate": {"custom_model_data":1805}, "model": "item/mori/yeoui/cooldown/5"},
+    {"predicate": {"custom_model_data":1810}, "model": "item/mori/geundoowun"},
+    {"predicate": {"custom_model_data":1811}, "model": "item/mori/noeseon"},
+    {"predicate": {"custom_model_data":1812}, "model": "item/mori/thunder_breaker"},
+    {"predicate": {"custom_model_data":1813}, "model": "item/mori/yongpyo_power"},
+    {"predicate": {"custom_model_data":1814}, "model": "item/mori/yongpyo_acceleration"},
 
     {"predicate": {"custom_model_data":100000}, "model": "item/extra/banana"},
 
@@ -180,7 +185,13 @@
 
     {"predicate": {"custom_model_data":1001710}, "model": "item/pepsi_man/inactive/pepsi_splash"},
     {"predicate": {"custom_model_data":1001711}, "model": "item/pepsi_man/inactive/pepsi"},
-    {"predicate": {"custom_model_data":1001712}, "model": "item/pepsi_man/inactive/pepsi_creation"}
+    {"predicate": {"custom_model_data":1001712}, "model": "item/pepsi_man/inactive/pepsi_creation"},
+
+    {"predicate": {"custom_model_data":1001810}, "model": "item/mori/geundoowun"},
+    {"predicate": {"custom_model_data":1001811}, "model": "item/mori/noeseon"},
+    {"predicate": {"custom_model_data":1001812}, "model": "item/mori/thunder_breaker"},
+    {"predicate": {"custom_model_data":1001813}, "model": "item/mori/yongpyo_power"},
+    {"predicate": {"custom_model_data":1001814}, "model": "item/mori/yongpyo_acceleration"}
 
 
     
