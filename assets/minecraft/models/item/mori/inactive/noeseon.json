@@ -1,5 +1,5 @@
 {
-  "parent":"item/jotaro/time_stop",
+  "parent":"item/mori/noeseon",
   "textures": {
     "layer0": "item/mori/inactive/noeseon"
   }

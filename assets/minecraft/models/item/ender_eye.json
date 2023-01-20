@@ -187,11 +187,11 @@
     {"predicate": {"custom_model_data":1001711}, "model": "item/pepsi_man/inactive/pepsi"},
     {"predicate": {"custom_model_data":1001712}, "model": "item/pepsi_man/inactive/pepsi_creation"},
 
-    {"predicate": {"custom_model_data":1001810}, "model": "item/mori/geundoowun"},
-    {"predicate": {"custom_model_data":1001811}, "model": "item/mori/noeseon"},
-    {"predicate": {"custom_model_data":1001812}, "model": "item/mori/thunder_breaker"},
-    {"predicate": {"custom_model_data":1001813}, "model": "item/mori/yongpyo_power"},
-    {"predicate": {"custom_model_data":1001814}, "model": "item/mori/yongpyo_acceleration"}
+    {"predicate": {"custom_model_data":1001810}, "model": "item/mori/inactive/geundoowun"},
+    {"predicate": {"custom_model_data":1001811}, "model": "item/mori/inactive/noeseon"},
+    {"predicate": {"custom_model_data":1001812}, "model": "item/mori/inactive/thunder_breaker"},
+    {"predicate": {"custom_model_data":1001813}, "model": "item/mori/inactive/yongpyo_power"},
+    {"predicate": {"custom_model_data":1001814}, "model": "item/mori/inactive/yongpyo_acceleration"}
 
 
     

@@ -1,5 +1,5 @@
 {
-  "parent":"item/jotaro/time_stop",
+  "parent":"item/mori/geundoowun",
   "textures": {
     "layer0": "item/mori/inactive/geundoowun"
   }

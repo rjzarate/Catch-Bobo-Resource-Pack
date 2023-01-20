@@ -1,5 +1,5 @@
 {
-  "parent":"item/jotaro/time_stop",
+  "parent":"item/mori/yongpyo_power",
   "textures": {
     "layer0": "item/mori/inactive/yongpyo_power"
   }
