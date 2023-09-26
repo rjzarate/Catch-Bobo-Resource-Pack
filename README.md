@@ -18,7 +18,7 @@ Should work for versions 1.19 - 1.20
 6. Go back into Minecraft, and Select "Catch Bobo Resource Pack"
   ![image](https://github.com/rjzarate/Catch-Bobo-Resource-Pack/assets/115201416/6144f962-f654-45a4-8f26-aa9e02e5e158)
 
-##Now, you're set!
+Now, you're set!
   ![image](https://github.com/rjzarate/Catch-Bobo-Resource-Pack/assets/115201416/a0cf5718-60a6-40b2-8dfc-7f70e8ec138d)
 
 # World Download
